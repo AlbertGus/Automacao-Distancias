@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte de um trabalho da faculdade, com o obje
 
 - Python
 - Pandas
-- Selenium
+- Selenium-wire
 
 ## 🌐 Objetivo
 
