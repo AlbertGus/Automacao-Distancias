@@ -28,4 +28,4 @@ Automatizar a extração de dados de distância e tempo entre locais a partir de
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome Aqui]
+Desenvolvido por Gustavo S.
